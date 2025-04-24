@@ -6,12 +6,12 @@ class Securden < Formula
 
   on_intel do
     url "https://github.com/SecurdenDevOps/homebrew-get-cli/releases/download/v#{version}/securden-cli-darwin-amd64.tar.gz"
-    sha256 "808B8344067C97BC02B3810831496FE591D0E75705B73A0F0FC4CC7ED78C76C8"
+    sha256 "F19DF17551D07908E7CCF0FDC0E3AC3B5A6FD19C7FAE6CDE9FC8CB8211BCD48F"
   end
 
   on_arm do
     url "https://github.com/SecurdenDevOps/homebrew-get-cli/releases/download/v#{version}/securden-cli-darwin-arm64.tar.gz"
-    sha256 "0E2DA48C5675C5DE4C88C45C3125C1DAF3A33D33C5A3B7EB4B319B5CB2D282B9"
+    sha256 "5331E85548F97CE3BF9ED298008C9505469AC2DA14575809C9FD9CB8F4EAE5C9"
   end
 
   livecheck do
