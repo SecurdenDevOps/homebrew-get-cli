@@ -1,4 +1,4 @@
-# Securden Command Line Interface - macOs
+# Securden Command Line Interface - macOS
 
 This guide will take you through the process of installing and getting data through Securden CLI using pre-defined commands. 
 
